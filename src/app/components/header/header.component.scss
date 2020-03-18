@@ -4,7 +4,8 @@ ul {
     padding: 30px;
     overflow: hidden;
     background-color: #f5c908;
-  }
+    opacity: 0.8;
+}
   
   li {
     float: left;
@@ -63,5 +64,5 @@ ul {
   .dropdown:hover .dropdown-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {background-color: #dace64;}
+  .dropdown:hover .dropbtn {background-color:  #f6f0f0;}
  
